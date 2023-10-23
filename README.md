@@ -19,5 +19,5 @@ Si buscas a alguien con una mentalidad de crecimiento, un compromiso con la cali
 
 🌱 Actualmente estoy aprendiendo React y Astro
 
-🔗 [Puedes ver mi CV completo y contactarme aquí](https://jal-dev.vercel.app/)
+🔗 [Puedes ver mi CV completo y contactarme aquí](https://jal-dev.vercel.app/){:target="_blank"}
 
